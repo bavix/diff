@@ -1,0 +1,20 @@
+{
+  "name": "bavix/diff",
+  "description": "diff",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "REZ1DENT3",
+      "email": "info@babichev.net"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Bavix\\": "src/"
+    }
+  },
+  "require": {
+    "yetanotherape/diff-match-patch": "^1.0",
+    "bavix/exceptions": "^1.0"
+  }
+}
