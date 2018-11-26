@@ -1,6 +1,13 @@
 {
   "name": "bavix/diff",
-  "description": "diff",
+  "description": "Keeping a history of changes is easy",
+  "keywords": [
+    "diff",
+    "patch",
+    "history",
+    "change",
+    "changes"
+  ],
   "license": "MIT",
   "authors": [
     {
