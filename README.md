@@ -18,8 +18,3 @@ Diff - Keeping a history of changes is easy.
 * **Version**: [![Latest Stable Version](https://poser.pugx.org/bavix/diff/v/stable)](https://packagist.org/packages/bavix/diff)
 * **PHP Version**: 7.0+ 
 * **[Composer](https://getcomposer.org/):** `composer require bavix/diff`
-
----
-Supported by
-
-[![Supported by JetBrains](https://cdn.rawgit.com/bavix/development-through/46475b4b/jetbrains.svg)](https://www.jetbrains.com/)
